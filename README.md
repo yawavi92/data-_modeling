@@ -4,4 +4,4 @@
 - String manipulation
 - Join 
 - Subquery 
-- Ranking function 
+- Window function 
