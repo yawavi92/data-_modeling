@@ -1,6 +1,6 @@
-# data-_modeling
+# Data Modeling
 
-- Create table , keys and constraints
+- Create table , keys and constraints 
 - String manipulation
 - Join 
 - Subquery 
